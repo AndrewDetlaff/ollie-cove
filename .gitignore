@@ -1,0 +1,8 @@
+# Local Windows launcher with machine-specific path
+Launch-Ollie-Silent.vbs
+
+# Local backups & OS files
+*.json
+*.lnk
+Thumbs.db
+.DS_Store
